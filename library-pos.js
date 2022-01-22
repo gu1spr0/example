@@ -1,5 +1,5 @@
 var MPK = "720";
-var PNRPNR = "028510";
+var PNR = "028510";
 
 exports.SendAck = function (sock) {
     var msg = '06';
